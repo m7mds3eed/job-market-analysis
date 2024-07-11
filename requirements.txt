@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+spacy
+tkinter
+prophet
+selenium
+webdriver_manager
